@@ -2,4 +2,4 @@
 
 A simple website that fetches random husky images using [dog.ceo API](https://dog.ceo/dog-api).
 
-Feel free to implement any part of the code!
+Implementations, feedback, pull requests and bug reports are welcome.
